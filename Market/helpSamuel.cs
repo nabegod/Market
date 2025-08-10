@@ -13,3 +13,4 @@
     // Git reset - para desfazer commits
     // Git revert - para desfazer um commit específico
     // Git stash - para salvar alterações temporariamente
+    kshjkdhkdghsjdgfshgfjfsd
